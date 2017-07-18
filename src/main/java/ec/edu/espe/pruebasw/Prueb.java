@@ -9,9 +9,6 @@ package ec.edu.espe.pruebasw;
  *
  * @author AyrtonWladimir
  */
-public class Prueba {
- 
-    //Carita de la paloma maldicionnnnnnnnnnnnnn
-    
-    //y ahoraaaaaaaaaaaaa
+public class Prueb {
+    // se pudrio
 }
